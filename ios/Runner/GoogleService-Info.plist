@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>417701020381-61d292q3pc07kumcpdmulrfv51710tdd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.417701020381-61d292q3pc07kumcpdmulrfv51710tdd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>417701020381-kqf65q5beshio5thd0crb08fr62us7fp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuPxMmmt_gcP8_9KuJQfxHoy8njV1orss</string>
+	<key>GCM_SENDER_ID</key>
+	<string>417701020381</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hkmhyderabad.harekrishnagoldentemple</string>
+	<key>PROJECT_ID</key>
+	<string>hare-krishna-golden-temp-b1785</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hare-krishna-golden-temp-b1785.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:417701020381:ios:c54bcf594a204e988b1134</string>
+</dict>
+</plist>
